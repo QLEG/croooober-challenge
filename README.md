@@ -1,5 +1,8 @@
 ## DEMO
- プログラムの実行が完了した際のターミナルアプリ上の表示
+ プログラムの実行が完了した際における、ターミナルアプリ上の表示例
+ 
+ ![image](https://user-images.githubusercontent.com/79276151/211322036-ca7490ed-b33d-428f-9ebd-b8bccfef519b.png)
+
 
 ## 動作環境
   Ruby -ver 2.6.10 （確認済み）
